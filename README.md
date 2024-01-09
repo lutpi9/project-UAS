@@ -6,6 +6,8 @@
 | **NIM** | 312310474 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
+| **link youtube** |https://youtu.be/ihvNxlZxwxQ?si=wd5Dg6mi5aSzyu2r  |
+
 
 
 ### Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
