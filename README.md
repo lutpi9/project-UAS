@@ -43,7 +43,7 @@ def main():
   pesanan = []
 
   # Mulai Transaksi
-  print("Selamat datang di Kantin selalu kenyang")
+  print("Selamat datang di Kantin selalu lapar")
   tampilkan_menu()
 
   while True:
