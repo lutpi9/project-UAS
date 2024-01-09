@@ -8,13 +8,12 @@
 | **Mata Kuliah** | Bahasa Pemrograman |
 
 
-Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
-• List opsi pilihan makanan/minuman dan aksi, bisa menggunakan
+### Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
+* List opsi pilihan makanan/minuman dan aksi, bisa menggunakan
 format dictionary
-• Program harus meminta input pilihan makanan dari pengguna.
-• Program harus menghitung total harga makanan yang dipesan.
-• Program harus menampilkan struk pembelian.
-
+* Program harus meminta input pilihan makanan dari pengguna.
+* Program harus menghitung total harga makanan yang dipesan.
+* Program harus menampilkan struk pembelian.
 Program Python tersebut merupakan program kasir sederhana yang dapat digunakan untuk mencatat transaksi pembelian makanan dan minuman di kantin. Program ini memiliki beberapa fitur, yaitu:
 
 Menampilkan daftar menu makanan dan minuman beserta harganya
